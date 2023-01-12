@@ -17,7 +17,3 @@ Software Engineering (BSc.) Student @Technion
 
 **2021-2022**: IBM - Open Source Recognition Program - Significant Contributor
 - [stolostron/hub-of-hubs](https://github.com/stolostron/multicluster-global-hub/tree/release-0.3) project (RedHat - Open Cluster Management)
-
----
-
-[![vMaroon's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmaroon&theme=dark&show_icons=true)](https://github.com/vmaroon/vmaroon)
