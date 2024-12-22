@@ -8,7 +8,9 @@ Teaching Assistant @Technion
 ---
 
 ### Open-Source (/Related) Awards:
-
+**2023-2024**: IBM - Research Accomplishment
+- [KubeStellar](https://github.com/kubestellar/kubestellar) project (CNCF Project for Multi-Cluster Kubernetes)
+  
 **2023-2024**: IBM - Technical Collaboration Achievement Program - Leader
 - [KubeStellar](https://github.com/kubestellar/kubestellar) project (CNCF Project for Multi-Cluster Kubernetes)
 
